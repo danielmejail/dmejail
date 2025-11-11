@@ -25,6 +25,12 @@ h2 {
 	font-size:1.2rem;
 }
 
+ul.notas-list {
+	font-family:serif;
+	font-size:1rem;
+	color:#223344
+}
+
 a#skip-to-main { display:none; }
 a#back-to-top { display:none; }
 
@@ -98,4 +104,5 @@ a.contactinfo-email {
 	font-family:monospace;
 	text-decoration:none;
 }
+
 
